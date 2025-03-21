@@ -1,3 +1,8 @@
 {
-  "images": []
+  "images": [
+    {
+      "url": "https://example.com/newimage.jpg",
+      "name": "New Image"
+    }
+  ]
 }
