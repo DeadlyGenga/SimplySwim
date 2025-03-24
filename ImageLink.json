@@ -23,6 +23,10 @@
     {
       "url": "images/pump-750.png",
       "name": "New Image"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DeadlyGenga/SimplySwim/refs/heads/main/images/Fruju-Full.png",
+      "name": "New Image"
     }
   ]
 }
