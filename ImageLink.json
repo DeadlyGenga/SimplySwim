@@ -15,6 +15,10 @@
     {
       "url": "https://example.com/newimage.jpg",
       "name": "New Image"
+    },
+    {
+      "url": "images/water.png",
+      "name": "New Image"
     }
   ]
 }
