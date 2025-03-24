@@ -3,6 +3,10 @@
     {
       "url": "https://example.com/newimage.jpg",
       "name": "New Image"
+    },
+    {
+      "url": "https://example.com/newimage.jpg",
+      "name": "New Image"
     }
   ]
 }
