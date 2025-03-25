@@ -67,6 +67,10 @@
     {
       "url": "https://raw.githubusercontent.com/DeadlyGenga/SimplySwim/refs/heads/main/images/water.png",
       "ProductID": "3"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DeadlyGenga/SimplySwim/refs/heads/main/images/index.jpg",
+      "ProductID": "63"
     }
   ]
 }
