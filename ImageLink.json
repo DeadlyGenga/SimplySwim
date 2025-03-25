@@ -1,45 +1,4 @@
 {
   "images": [
-    {
-      "url": "https://raw.githubusercontent.com/DeadlyGenga/SimplySwim/refs/heads/main/images/Fruju-Full.png",
-      "name": "New Image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/DeadlyGenga/SimplySwim/refs/heads/main/images/Choc-Bar-Small.png",
-      "ProductID": 1234
-    },
-    {
-      "url": "https://raw.githubusercontent.com/DeadlyGenga/SimplySwim/refs/heads/main/images/Fruju-Orange-Small.png"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/DeadlyGenga/SimplySwim/refs/heads/main/images/GG-Gumdrops-Small.png",
-      "ProductID": "68"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/DeadlyGenga/SimplySwim/refs/heads/main/images/Zoggs_deluxe_stretch_cap_small.png",
-      "ProductID": "68"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/DeadlyGenga/SimplySwim/refs/heads/main/images/Bumper_Bar_Apricot_Small.png",
-      "ProductID": "68"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/DeadlyGenga/SimplySwim/refs/heads/main/images/Zoggs-Predator-Small-Text.png"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/DeadlyGenga/SimplySwim/refs/heads/main/images/Aqualine_Junior_lycra_blue_Small.png"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/DeadlyGenga/SimplySwim/refs/heads/main/images/Fruju-Orange-Full.png",
-      "ProductID": "30"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/DeadlyGenga/SimplySwim/refs/heads/main/images/Jet-Junior-Goggles-Full.jpg",
-      "ProductID": {}
-    },
-    {
-      "url": "https://raw.githubusercontent.com/DeadlyGenga/SimplySwim/refs/heads/main/images/Peanut-Slab-Small.png",
-      "ProductID": "82"
-    }
   ]
 }
