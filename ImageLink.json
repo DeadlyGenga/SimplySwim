@@ -63,6 +63,10 @@
     {
       "url": "https://raw.githubusercontent.com/DeadlyGenga/SimplySwim/refs/heads/main/images/Fruity-Tube-Small.png",
       "ProductID": "36"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DeadlyGenga/SimplySwim/refs/heads/main/images/water.png",
+      "ProductID": "3"
     }
   ]
 }
